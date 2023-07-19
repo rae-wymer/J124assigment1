@@ -28,6 +28,9 @@ _this is an unorderd list_
 
 *This is a image from .jpeg file in the repo*<br/>
 
+*This is a hyperlink*<br>
+[Google](https://www.google.com/)
+
 *This is a blockquote*
 > blockquote<br/>
 > another blockquote
