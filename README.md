@@ -20,9 +20,15 @@ Lets combine **bold** and _italics_
 _this is an unorderd list_
 * Item 1
 * Item 2
-      * Next Item
-      * Next item
+     * Next Item
+     * Next item
 
-*Image from a URl*
-![Pink peionies bouquet in a vase]
-(https://dy1yydbfzm05w.cloudfront.net/media/catalog/product/cache/39b52c4cabb46819553175347e38b212/f/a/famingo_peony_vase.jpg)
+*Image from a URL* <br/>
+![Pink peionies bouquet in a vase](https://dy1yydbfzm05w.cloudfront.net/media/catalog/product/cache/39b52c4cabb46819553175347e38b212/f/a/famingo_peony_vase.jpg)
+
+*This is a image from .jpeg file in the repo*<br/>
+
+*This is a blockquote*
+> blockquote<br/>
+> another blockquote
+
